@@ -18,5 +18,9 @@ Now I am actively studying the direction of frontend development and I want to f
 * HTML, CSS basic
 * JavaScript basic
 * Git
-* VS Code
+* English A2
 * Adobe Photoshop
+## Contact information:
+* **Telegram:** @FAN_X
+* **E-mail:** panchuk.dmitriy.04@mail.ru
+* **Phone:** +375445591987
