@@ -1,1 +1,1 @@
-# rsschool-cv
+https://FantomXYZ.github.io/rsschool-cv/cv
